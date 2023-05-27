@@ -1,5 +1,5 @@
 # The JaeyeongScript
-[Introduction](introduction.md)
+- [Introduction](introduction.md)
   - [installation](./installation.md)
-[Error Handling](./error-handling.md)
+- [Error Handling](./error-handling.md)
   - [Standard Errors](./errors.md)
